@@ -34,7 +34,7 @@ J'ai simulé une attaque par force brute et exécuté des commandes malveillante
 ### 3. Résultat de l'Analyse Automatique
 Voici le résultat de mon script Python sur les données capturées :
 ![Analyse Script](evidence/Screenshot_7.png) 
-*(Assure-toi que le nom de l'image correspond bien à celle que tu as uploadée)*
+
 
 ---
 
